@@ -1,3 +1,5 @@
+![Image alt](https://github.com/GigaScript/VisualVMDescription/blob/main/VisualVM.png)
+
 # VisualVMDescription
 Участок №1
 
